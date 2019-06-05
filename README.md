@@ -1,2 +1,2 @@
-# Shortest-Path-in-Map
+# Shortest-Path-on-Map
 Shortest Path in map with dijkstra algorithm
