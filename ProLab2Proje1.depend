@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1489690764 source:c:\users\ek-19\desktop\prog\prolab2proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<allegro.h>
+
+1489690764 source:c:\users\ek-19\desktop\prolab\prolab2proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<allegro.h>
+
+1490206967 source:c:\users\ek-19\desktop\maps\prolab2proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<allegro.h>
+
